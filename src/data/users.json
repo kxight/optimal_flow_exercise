@@ -6,5 +6,13 @@
     "passwordHash": "$2b$10$ui6d.ZHDUwxl9bTPvdwWA.bGnOXlY9J09qiXzISTHOcracWmRw5La",
     "createdAt": "2025-05-29T18:27:13.519Z",
     "updatedAt": "2025-05-29T18:27:13.520Z"
+  },
+  {
+    "id": "e509d5be-5083-423a-95d0-0f93c0c0cedd",
+    "username": "test",
+    "email": "eamil2@email.com",
+    "passwordHash": "$2b$10$XXgis95MygAkkR.HNG.Rcej6xX3fURVE7GTt3pk4GzlYJtacGa2jy",
+    "createdAt": "2025-05-29T18:39:20.448Z",
+    "updatedAt": "2025-05-29T18:39:20.448Z"
   }
 ]

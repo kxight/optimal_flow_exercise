@@ -1,0 +1,18 @@
+[
+  {
+    "id": "5230c638-36e7-490c-bdbd-0c8b0d9791e3",
+    "accountId": "eb7ed729-e981-4ec5-90fb-3bd3311ccaaa",
+    "type": "withdrawal",
+    "amount": 50,
+    "timestamp": "2025-05-29T18:39:59.283Z",
+    "note": " a gift for you <3"
+  },
+  {
+    "id": "8b6e5163-be7e-4368-b4ea-122a12e7c0c4",
+    "accountId": "b13b1180-dd4b-4a7b-bc51-0cd607c7df08",
+    "type": "deposit",
+    "amount": 50,
+    "timestamp": "2025-05-29T18:39:59.283Z",
+    "note": " a gift for you <3"
+  }
+]

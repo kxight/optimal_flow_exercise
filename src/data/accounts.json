@@ -2,8 +2,17 @@
   {
     "id": "eb7ed729-e981-4ec5-90fb-3bd3311ccaaa",
     "userId": "24ddc7c6-0f9a-447a-b289-99c6f48cc8f8",
-    "balance": 100,
+    "balance": 50,
     "createdAt": "2025-05-29T18:27:13.520Z",
-    "updatedAt": "2025-05-29T18:27:13.520Z"
+    "updatedAt": "2025-05-29T18:27:13.520Z",
+    "updated_at": "2025-05-29T18:39:59.281Z"
+  },
+  {
+    "id": "b13b1180-dd4b-4a7b-bc51-0cd607c7df08",
+    "userId": "e509d5be-5083-423a-95d0-0f93c0c0cedd",
+    "balance": 150,
+    "createdAt": "2025-05-29T18:39:20.449Z",
+    "updatedAt": "2025-05-29T18:39:20.449Z",
+    "updated_at": "2025-05-29T18:39:59.281Z"
   }
 ]
