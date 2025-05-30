@@ -23,8 +23,8 @@ A simple backend REST API built with Node.js and Express. It supports user authe
 **1. Clone the repository:**
 
 ```
-git clone https://github.com/yourusername/your-node-backend.git
-cd your-node-backend 
+git clone https://github.com/kxight/optimal_flow_exercise.git
+cd optimal_flow_exerise 
 ```
 
 **2. Install dependencies:**
