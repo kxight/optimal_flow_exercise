@@ -32,7 +32,7 @@ cd optimal_flow_exerise
 npm install
 ```
 
-**3. create .env file with these data**
+**3. create .env file at root with these data**
 ```
 // this is a mock data, replace it with your data
 PORT=3000
